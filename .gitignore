@@ -17,3 +17,5 @@ env/
 .idea/
 *.swp
 .gitignore
+
+Parking-Space-1/**/labels/
