@@ -18,4 +18,6 @@ env/
 *.swp
 .gitignore
 
-Parking-Space-1/**/labels/
+Parking-Space-1/
+Parking-Space-1/**/labels/Parking-Space-1/
+.Parking-Space-1/
