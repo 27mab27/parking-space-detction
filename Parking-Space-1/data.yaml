@@ -1,0 +1,13 @@
+names:
+- empty
+- occupied
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: parking-space-ipm1b-9qgdp
+  url: https://universe.roboflow.com/saud-hwwdx/parking-space-ipm1b-9qgdp/dataset/1
+  version: 1
+  workspace: saud-hwwdx
+test: ../test/images
+train: ../train/images
+val: ../valid/images
